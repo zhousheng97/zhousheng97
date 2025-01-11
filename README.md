@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 - 👩 I’m Sheng Zhou, a PhD student from China, passionate about research and innovation.
-- 🧐 My focus is multimedia learning, especially Visual Question Answering (VQA), and I’m currently exploring multimodal Large Language Models (MLLMs).
+- 🧐 My focus is multimedia learning, especially VQA, and I’m currently exploring multimodal LLMs.
 - ✈️ 🏊 🎶 I enjoy traveling, sports like swimming and yoga, and music in all its moods, which energizes me for work.
-- 💬 As an ENFJ-A, I thrive on collaboration and meaningful impact.
+- 💬 As an ENFJ-A, I thrive on meaningful collaboration and communication.
 - 📫 You can reach me at hzgn97@gmail.com—let’s connect!
 - 🏃‍♀️ I believe scientific research is a marathon. Let’s keep going!
