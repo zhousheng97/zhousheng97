@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 - 👩 I’m Sheng, a PhD student from China, currently visiting the National University of Singapore.
 - 🧐 My focus is multimedia learning, especially VQA, and I’m currently exploring multimodal LLMs.
-- ✈️ 🏊 🎶 I enjoy traveling, sports like swimming and yoga, and music in all its moods, which energizes me for work.
 - 💬 As an ENFJ-A, I thrive on meaningful collaboration and communication.
 - 📫 You can reach me at hzgn97@gmail.com—let’s connect!
