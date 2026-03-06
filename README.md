@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-- 👩 I’m Sheng, a PhD in Computer Science from China.
+- 👩 I’m Sheng.
 - 🧐 My focus is multimodal learning, especially VQA, and I’m currently exploring multimodal LLMs.
 - 💬 As an ENFJ-A, I thrive on meaningful collaboration and communication.
 - 📫 You can reach me at hzgn97@gmail.com—let’s connect!
